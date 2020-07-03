@@ -1,0 +1,26 @@
+{
+	"name": "gridsome-remark-unwrap-images",
+	"version": "1.0.0",
+	"description": "Unwrap transformed gridsome images from its paragraph tag.",
+	"main": "src/plugin.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"vue",
+		"gridsome",
+		"gridsome-plugin",
+		"remark",
+		"unwrap-images"
+	],
+	"author": "Alexander Widua <a.widua@gmail.com>",
+	"homepage": "https://github.com/alexwidua/gridsome-remark-unwrap-images",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/alexwidua/gridsome-remark-unwrap-images.git"
+	},
+	"bugs": {
+		"url": "https://github.com/alexwidua/gridsome-remark-unwrap-images/issues"
+	},
+	"license": "MIT"
+}
