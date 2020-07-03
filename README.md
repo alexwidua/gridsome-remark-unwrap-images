@@ -34,11 +34,11 @@ module.exports = {
 
 ## :warning: Caveat
 
-At the moment the image to be unwrapped must be in a separate line, otherwise the image will still be wrapped in a `<p>` tag.
+The image must be in a separate line with one line space to the next content block; otherwise the image is still wrapped in a `<p>` tag.
 
-#### :white_check_mark: Image gets unwrapped
+#### :white_check_mark: Image is unwrapped
 
-**Markdown**
+**Markdown input**
 
 ```md
 I'm a paragraph.
@@ -55,9 +55,9 @@ I'm a paragraph.
 </div>
 ```
 
-#### :x: Image stays wrapped
+#### :x: Image is wrapped in <p> tag (default behaviour)
 
-**Markdown**
+**Markdown input**
 
 ```md
 I'm a paragraph.
