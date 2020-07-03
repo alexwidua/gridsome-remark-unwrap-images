@@ -36,7 +36,7 @@ module.exports = {
 
 At the moment the image to be unwrapped must be in a separate line, otherwise the image will still be wrapped in a `<p>` tag.
 
-### :white_check_mark: Image gets unwrapped
+#### :white_check_mark: Image gets unwrapped
 
 **Markdown**
 
@@ -55,7 +55,7 @@ I'm a paragraph.
 </div>
 ```
 
-### :x: Image stays wrapped
+#### :x: Image stays wrapped
 
 **Markdown**
 
