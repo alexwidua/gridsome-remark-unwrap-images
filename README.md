@@ -55,7 +55,7 @@ I'm a paragraph.
 </div>
 ```
 
-#### :x: Image is wrapped in <p> tag (default behaviour)
+#### :x: Image gets wrapped (default)
 
 **Markdown input**
 
